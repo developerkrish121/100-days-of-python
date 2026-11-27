@@ -16,7 +16,7 @@ This repository documents my daily progress, coding exercises, challenges, notes
 | Day | Topics / Project | Status |
 |---|---|---|
 | Day 01 | Band Name Generator | Completed |
-| Day 02 | Coming Soon | Pending |
+| Day 02 | Python Data Types and Exercises | Completed |
 | Day 03 | Coming Soon | Pending |
 
 ## Repository Structure
@@ -26,6 +26,10 @@ This repository documents my daily progress, coding exercises, challenges, notes
 │
 ├── DAY-01/
 │   └── project1.py
+│
+├── DAY-02/
+│   ├── project2.py
+│   └── task.py
 │
 ├── README.md
 └── .gitignore
@@ -52,6 +56,21 @@ What is the name of your pet? robo
 The name of band is Agra robo
 ```
 
+### Day 02 – Python Data Types and Exercises
+
+Practiced Python fundamentals through coding exercises.
+
+**Files:**
+- `DAY-02/project2.py`
+- `DAY-02/task.py`
+
+**Concepts practiced:**
+- Python data types
+- Variables
+- Type checking
+- Type conversion
+- Basic mathematical operations
+
 ## Learning Goals
 
 - Understand Python fundamentals.
@@ -62,7 +81,7 @@ The name of band is Agra robo
 
 ## Progress
 
-**Day 01 / 100 Completed**
+**Day 02 / 100 Completed**
 
 This repository will be updated regularly as I progress through the course.
 
