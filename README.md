@@ -17,7 +17,8 @@ This repository documents my daily progress, coding exercises, challenges, notes
 |---|---|---|
 | Day 01 | Band Name Generator | Completed |
 | Day 02 | Python Data Types and Exercises | Completed |
-| Day 03 | Coming Soon | Pending |
+| Day 03 | Conditional Statements and Control Flow | Completed |
+| Day 04 | Coming Soon | Pending |
 
 ## Repository Structure
 
@@ -30,6 +31,9 @@ This repository documents my daily progress, coding exercises, challenges, notes
 ├── DAY-02/
 │   ├── project2.py
 │   └── task.py
+│
+├── DAY-03/
+│   └── Python exercises and projects
 │
 ├── README.md
 └── .gitignore
@@ -71,6 +75,17 @@ Practiced Python fundamentals through coding exercises.
 - Type conversion
 - Basic mathematical operations
 
+### Day 03 – Conditional Statements and Control Flow
+
+Practiced Python decision-making and control flow through coding exercises.
+
+**Concepts practiced:**
+- Conditional statements
+- `if`, `elif`, and `else`
+- Comparison operators
+- Logical operators
+- Decision-making in Python
+
 ## Learning Goals
 
 - Understand Python fundamentals.
@@ -81,7 +96,7 @@ Practiced Python fundamentals through coding exercises.
 
 ## Progress
 
-**Day 02 / 100 Completed**
+**Day 03 / 100 Completed**
 
 This repository will be updated regularly as I progress through the course.
 
